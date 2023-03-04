@@ -26,3 +26,5 @@
 * 我认为不错的拥有UI的项目：
 
 [ddiu8081](https://github.com/ddiu8081/chatgpt-demo)
+
+[binjie09](https://github.com/binjie09/chatgpt-web)
